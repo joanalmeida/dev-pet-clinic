@@ -1,4 +1,4 @@
-package com.avalanche.petclinic.model;
+package com.avalanche.devpetclinic.model;
 
 import java.time.LocalDate;
 

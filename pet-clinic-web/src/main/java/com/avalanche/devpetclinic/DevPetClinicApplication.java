@@ -1,4 +1,4 @@
-package com.avalanche.petclinic;
+package com.avalanche.devpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
